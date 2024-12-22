@@ -1,0 +1,37 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is Qin Lulu's GitHub
+    - icon: github
+      text: Github
+      href: This is Qin Lulu's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is Qin Lulu's GitHub
+    - icon: envelope
+      text: Email
+      href: This is Qin Lulu's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+Hello everyone, my name is Qin Lulu and I am delighted to introduce myself here.
+Hi, I’m Qin Lulu, a education management student with a passion for innovation.  
+I graduated from Qiqihar University with a degree in Biological Science Teacher Training.  
+In my free time, I enjoy playing the violin and reading .  
+I choose to complete my postgraduate study in Belarusian State University, where the teachers have a strong academic background and the students are united and loving.
+I'm a team player and always eager to learn new skills.  
+Excited to introduce myself to you .
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">chenqitian</a>
+</div>
+```
+
+
